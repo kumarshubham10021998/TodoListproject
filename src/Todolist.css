@@ -1,0 +1,116 @@
+h5{
+    font: normal normal 600 15px/20px Nunito Sans;
+}
+.date{
+    font: normal normal 600 61px/84px Nunito Sans;
+}
+.date1{
+    font: normal normal 600 22px/30px Nunito Sans;
+}
+.color{
+ position: relative;
+    color: #E33E5A;
+    padding-left: 40px;
+    top: 40px;
+}
+.jan{
+    position: absolute;
+width: 87px;
+height: 27px;
+text-align: left;
+font: normal normal 600 20px/27px Nunito Sans;
+letter-spacing: 0px;
+color: #1F4068;
+opacity: 1;
+top: 100px;
+margin-left: 35px;
+}
+.status{
+    position: absolute;
+    right: 150px;
+    top: 50px;
+    width: 45px;
+height: 20px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 15px/20px Nunito Sans;
+letter-spacing: 0px;
+color: #1A1B2F;
+opacity: 1;
+}
+.task{
+    position: absolute;
+    right: 150px;
+    width: 102px;
+height: 20px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 15px/20px Nunito Sans;
+letter-spacing: 0px;
+color: #1A1B2F;
+opacity: 1;
+}
+.task1{
+    position: absolute;
+    right: 135px;
+    top:130px;
+    width: 122px;
+height: 20px; 
+/* UI Properties */
+ text-align: left;
+font: normal normal 600 15px/20px Nunito Sans;
+letter-spacing: 0px;
+color: #1A1B2F;
+opacity: 1;
+}
+.task2{
+    position: absolute;
+    right: 150px;
+    top:170px;
+    width: 102px;
+height: 20px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 15px/20px Nunito Sans;
+letter-spacing: 0px;
+color: #1A1B2F;
+opacity: 1;
+}
+.count{
+    position: absolute;
+    right: 100px;
+    width: 14px;
+    height: 21px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 15px/23px Poppins;
+    letter-spacing: 0px;
+    color: #E33E5A;
+    opacity: 1; 
+}
+.count1{
+    position: absolute;
+    right: 100px;
+    top:130px; 
+    width: 14px;
+height: 21px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 15px/23px Poppins;
+letter-spacing: 0px;
+color: #E33E5A;
+opacity: 1;
+}
+.count2{
+    position: absolute;
+    right: 100px;
+    top:170px; 
+    width: 14px;
+height: 21px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 15px/23px Poppins;
+letter-spacing: 0px;
+color: #E33E5A;
+opacity: 1;
+}
